@@ -10,7 +10,7 @@ function App() {
           Bhhaiii... successfully deployed first react app on azure using git
         </p>
 
-        
+
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -25,3 +25,20 @@ function App() {
 }
 
 export default App;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
